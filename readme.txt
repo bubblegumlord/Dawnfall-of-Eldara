@@ -29,14 +29,14 @@ How to Run:
 2. In four additional terminals:
     python client.py
 
-Players connect to the server until a full party of 4 is formed — the game room starts automatically.
-Players can play in the unlimited amount of rooms, as long as party of 4 is formed.
+Players connect to the server until a full party of 4 is formed — the game starts automatically.
+Unlimited amount of rooms can be active, as long as party of 4 is formed.
 
 Controls:
 -------------------
 START: After entering your name and selecting an avatar, press ENTER.
-BATTLE:
 
+BATTLE:
 1 - Attack (random value between 15–25)
 2 - Heal (random value between 10–20)
 3 - Pass (skip turn)
